@@ -1,0 +1,1 @@
+# Star-divination-app
